@@ -13,3 +13,5 @@ In repository Settings → Pages, select Deploy from a branch, branch `main`, fo
 Includes biographies, recordings, concerts, booking contact and bilingual legal dialogs. Unknown legal/hosting details remain marked with `*` and need completion before final public launch.
 
 No build tools or installation required.
+
+Official website of Lúmina Trio
