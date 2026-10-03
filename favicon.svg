@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+<circle cx="64" cy="64" r="63" fill="#FFFFFF"/>
+<g fill="none" stroke="#D7A923" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+<path d="M29 65 C28 47 43 30 63 31 C82 30 99 46 98 65"/>
+<path d="M62 10 Q63 17 63 24 M37 15 Q40 22 43 28 M18 34 Q24 38 30 43 M8 61 Q15 60 22 61 M90 15 Q87 21 85 28 M110 34 Q104 38 100 43 M119 61 Q112 60 105 62"/>
+</g>
+<text x="64" y="111" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="77" fill="#D7A923">L</text>
+</svg>
